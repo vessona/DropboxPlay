@@ -1,0 +1,8 @@
+<resources>
+    <style name="YourApplicationTheme" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@style/button</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+</resources>
